@@ -18,7 +18,7 @@ Before running this project, ensure you have the following installed:
     git clone https://github.com/veyselsapan/GPT2.git
     ```
 
-2. **Create a Virtual Environment** (recommended): 
+2. **Create a Virtual Environment** (Optional): 
 
     ```bash
     python -m venv venv
