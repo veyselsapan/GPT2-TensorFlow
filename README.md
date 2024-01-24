@@ -1,11 +1,7 @@
-Certainly! Below is a detailed `README.md` file for your GPT model project. It includes an overview of the project, how to set up the environment, run the script, and additional notes:
-
----
-
-# GPT Model Project
+# GPT2 Model Project
 
 ## Overview
-This project implements a custom GPT (Generative Pre-trained Transformer) model using TensorFlow. It is designed for training, evaluating, and making predictions with the GPT model. The project is structured into multiple modules for ease of understanding and modification.
+This project implements a custom GPT2 (Generative Pre-trained Transformer) model using TensorFlow. It is designed for training, evaluating, and making predictions with the GPT model. The project is structured into multiple modules for ease of understanding and modification.
 
 ## Prerequisites
 Before running this project, ensure you have the following installed:
@@ -19,7 +15,7 @@ Before running this project, ensure you have the following installed:
 1. **Clone the Repository**: Clone this repository to your local machine or download the source code.
 
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/veyselsapan/GPT2.git>
     ```
 
 2. **Create a Virtual Environment** (recommended): 
@@ -74,6 +70,3 @@ The script will interactively ask you to choose a mode (`train`, `evaluate`, or 
 - Ensure that the `output_dir` contains the preprocessed data in TFRecord format before starting training or evaluation.
 - For prediction, a pre-trained model saved in the specified `model_path` is required.
 
----
-
-Remember to replace `<repository-url>` with the actual URL of your repository. This README provides a comprehensive guide for anyone looking to understand or use your project.
