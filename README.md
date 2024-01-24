@@ -15,7 +15,7 @@ Before running this project, ensure you have the following installed:
 1. **Clone the Repository**: Clone this repository to your local machine or download the source code.
 
     ```bash
-    git clone <https://github.com/veyselsapan/GPT2.git>
+    git clone https://github.com/veyselsapan/GPT2.git
     ```
 
 2. **Create a Virtual Environment** (recommended): 
